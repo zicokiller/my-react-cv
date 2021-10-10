@@ -9,13 +9,13 @@ function User() {
   return (
     <div className="user">
       <img
-        src="./image/moi.jpg"
+        src="./image/moi3.jpg"
         alt="user"
         width="100px"
         className="user-avatar"
       />
       <h1 className="user-name">Marc Richet</h1>
-      <p className="user-profession">Développeur Web Front-end</p>
+      <p className="user-profession">Développeur Front-end</p>
       <div className="user-infos">
         <p className="user-info">
           <HomeIcon />
