@@ -1,0 +1,43 @@
+.skills {
+    margin: var(--spacing-3) 0;
+}
+
+.skill {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.interests {
+    align-items: center;
+}
+
+.interests svg {
+    margin: var(--spacing-1);
+}
+
+.skills-custom {
+    display: flex;
+    justify-content: space-between;
+    margin: var(--spacing-3) 0;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.rating {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 70px;
+}
+
+.dark .rating {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 60px;
+}

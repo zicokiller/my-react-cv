@@ -1,0 +1,29 @@
+.user {
+    text-align: center;
+}
+
+.user-avatar {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+
+}
+
+.user-infos {
+    text-align: left;
+    padding: var(--spacing-3) 0 var(--spacing-1) 0;
+}
+
+.user-info {
+    display: flex;
+}
+
+.user-info svg {
+    color: var(--icon-color);
+    margin-right: 1rem;
+}
+
+.dark .user-info svg {
+    color:var(--dark-icon-color);
+  }
+  

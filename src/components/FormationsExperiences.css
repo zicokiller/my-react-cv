@@ -1,0 +1,33 @@
+.grid-item,
+.grid-item p {
+  margin-bottom: var(--spacing-1);
+}
+
+.grid-date {
+  font-weight: 500;
+}
+
+.grid-title {
+  margin-bottom: 0;
+}
+
+.grid-location {
+    font-weight: 500;
+    color: var(--date-color);
+}
+
+.grid-mission {
+  margin-bottom: var(--spacing-1);
+}
+
+.chips {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-right: var(--spacing-1);
+  margin-bottom: 30px;
+}
+
+.chip {
+  margin-right: 10px;
+}
