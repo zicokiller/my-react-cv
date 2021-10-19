@@ -3,7 +3,7 @@ const dataFormations = [
         id: 1,
         title: "Epitech Coding Academy",
         date: "Février 2020",
-        text: "Certification de Concepteur Développeur web validée le 06/10/2021",
+        text: "Certification de niveau III Concepteur Développeur web validée le 06/10/2021",
         location: "Montpellier",
 
     },
