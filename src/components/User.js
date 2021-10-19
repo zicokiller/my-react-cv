@@ -9,7 +9,7 @@ function User() {
   return (
     <div className="user">
       <img
-        src="./image/moi3.jpg"
+        src="./image/moi2.jpg"
         alt="user"
         width="100px"
         className="user-avatar"
