@@ -92,8 +92,11 @@ button {
   background-color: transparent;
   border: none;
   cursor: pointer;
-
 }
+
+/* .btn-icon {
+  display: none;
+} */
 
 .dark button {
   color: var(--dark-text-color);
@@ -141,6 +144,12 @@ li {
     display: grid;
     grid-template-columns: 1fr 2fr;
     margin: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .btn-icon {
+    display: none;
   }
 }
 

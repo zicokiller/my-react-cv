@@ -4,7 +4,7 @@ import WbSunnyOutlinedIcon from "@material-ui/icons/WbSunnyOutlined";
 import Brightness2OutlinedIcon from "@material-ui/icons/Brightness2Outlined";
 
 const DarkMode = () => {
-  const [themeMode, setThemeMode] = useState("light");
+  const [themeMode, setThemeMode] = useState("dark");
   let clickedClass = "clicked";
   const body = document.body;
   const lightTheme = "light";
