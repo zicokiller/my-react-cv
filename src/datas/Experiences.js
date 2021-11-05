@@ -171,7 +171,7 @@ export const dataExperiences = [
   {
     id: 5,
     title: "TECHNIPLAN - Reprographie, impression numérique et Offset",
-    date: "01/2016 - 04/2017",
+    date: "01/2016 - 04/2018",
     location: "Jouy-en-josas",
     text: `Responsable de secteur`,
     missions: [

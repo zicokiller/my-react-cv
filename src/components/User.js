@@ -15,7 +15,7 @@ function User() {
         className="user-avatar"
       />
       <h1 className="user-name">Marc Richet</h1>
-      <p className="user-profession">Développeur Front-end</p>
+      <h3 className="user-profession">Développeur Front-end</h3>
       <div className="user-infos">
         <p className="user-info">
           <HomeIcon />
